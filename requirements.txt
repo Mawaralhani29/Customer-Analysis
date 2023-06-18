@@ -1,6 +1,3 @@
-pandas==1.5.3
-streamlit
-pickle
 flask
 gunicorn
 scikit-learn
